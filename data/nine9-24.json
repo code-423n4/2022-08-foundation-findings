@@ -1,0 +1,9 @@
+{
+  "contest": 152,
+  "handle": "nine9",
+  "address": "0x4e12ca60da418b5b2992300377be1a279f15a49e",
+  "risk": "3",
+  "title": "Bypass the limit on the number of mint for a single account",
+  "issueId": 24,
+  "issueUrl": "https://github.com/code-423n4/2022-08-foundation-findings/issues/24"
+}
