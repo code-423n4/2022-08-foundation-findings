@@ -1,0 +1,9 @@
+{
+  "contest": 152,
+  "handle": "zeesaw",
+  "address": "0xf7dc32a61d52c77d326043d55c129872490be2ae",
+  "risk": "2",
+  "title": "NFT cannot be minted to non-ERC721 receivers",
+  "issueId": 46,
+  "issueUrl": "https://github.com/code-423n4/2022-08-foundation-findings/issues/46"
+}
