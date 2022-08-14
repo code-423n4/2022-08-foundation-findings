@@ -1,0 +1,9 @@
+{
+  "contest": 152,
+  "handle": "Treasure-Seeker",
+  "address": "0xdc8eb8d2d1babd956136b57b0b9f49b433c019e3",
+  "risk": "2",
+  "title": "Limit per account check can be bypassed by transferring NFTs to another wallet",
+  "issueId": 89,
+  "issueUrl": "https://github.com/code-423n4/2022-08-foundation-findings/issues/89"
+}
