@@ -1,0 +1,9 @@
+{
+  "contest": 152,
+  "handle": "cccz",
+  "address": "0x74d754378a59ab45d3e6cac83f0b87e8e8719270",
+  "risk": "2",
+  "title": "NFTDropMarketFixedPriceSale: Users can use any nftContract to create sales",
+  "issueId": 95,
+  "issueUrl": "https://github.com/code-423n4/2022-08-foundation-findings/issues/95"
+}
