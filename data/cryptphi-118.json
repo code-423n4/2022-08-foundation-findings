@@ -1,0 +1,9 @@
+{
+  "contest": 152,
+  "handle": "cryptphi",
+  "address": "0x876133657f5356e376b7ae27d251444727ce9488",
+  "risk": "2",
+  "title": "Collection admin is unable to selfdestruct contract after all NFTs are burnt",
+  "issueId": 118,
+  "issueUrl": "https://github.com/code-423n4/2022-08-foundation-findings/issues/118"
+}
