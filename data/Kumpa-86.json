@@ -1,0 +1,9 @@
+{
+  "contest": 152,
+  "handle": "Kumpa",
+  "address": "0x9813bb4f6ac2993d67d293ce5ec915661eb539d2",
+  "risk": "2",
+  "title": "Because of ```unchecked```, the creator could bring back burned nft.",
+  "issueId": 86,
+  "issueUrl": "https://github.com/code-423n4/2022-08-foundation-findings/issues/86"
+}
