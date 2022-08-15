@@ -1,0 +1,9 @@
+{
+  "contest": 152,
+  "handle": "byndooa",
+  "address": "0x94bce1057e95d61a9754a238cddbda0989787154",
+  "risk": "2",
+  "title": "Input [limitperAccount] in NFTDropMarket.createFixedPriceSale() is easily avoidable in one transaction",
+  "issueId": 263,
+  "issueUrl": "https://github.com/code-423n4/2022-08-foundation-findings/issues/263"
+}
