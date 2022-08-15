@@ -1,0 +1,9 @@
+{
+  "contest": 152,
+  "handle": "rbserver",
+  "address": "0x4bd9605a3e546f3400df2c2be7b1c775aeea56bd",
+  "risk": "2",
+  "title": "Malicious creator can update maxTokenId by calling updateMaxTokenId after minting begins to block further minting for an NFT drop collection",
+  "issueId": 254,
+  "issueUrl": "https://github.com/code-423n4/2022-08-foundation-findings/issues/254"
+}
