@@ -1,0 +1,12 @@
+## CONSTANTS SHOULD BE DEFINED RATHER THAN USING MAGIC NUMBERS
+
+### Impact - NON CRITICAL
+
+```sh
+File: contracts/NFTCollectionFactory.sol
+
+241     "ipfs://bafybeibvxnuaqtvaxu26gdgly2rm4g2piu7b2tqlx2dsz6wwhqbey2gddy/"
+242     0x1337000000000000000000000000000000000000000000000000000000001337
+```
+
+
