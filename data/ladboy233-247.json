@@ -1,0 +1,9 @@
+{
+  "contest": 152,
+  "handle": "ladboy233",
+  "address": "0xe1faaeb0d29c9cf411cbd47daab14a21ebe266a4",
+  "risk": "3",
+  "title": "User can steal the referral fee when minting systematically at the cost of nft creator and project.",
+  "issueId": 247,
+  "issueUrl": "https://github.com/code-423n4/2022-08-foundation-findings/issues/247"
+}
