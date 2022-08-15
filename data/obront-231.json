@@ -1,0 +1,9 @@
+{
+  "contest": 152,
+  "handle": "obront",
+  "address": "0xf346100e892553dceb41a927fb668da7b0b7c964",
+  "risk": "2",
+  "title": "If optional approvedMinter argument isn't included when drop is created, creating listings in the market will fail",
+  "issueId": 231,
+  "issueUrl": "https://github.com/code-423n4/2022-08-foundation-findings/issues/231"
+}
