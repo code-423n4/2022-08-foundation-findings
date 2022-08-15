@@ -1,0 +1,9 @@
+{
+  "contest": 152,
+  "handle": "rbserver",
+  "address": "0x4bd9605a3e546f3400df2c2be7b1c775aeea56bd",
+  "risk": "3",
+  "title": "latestTokenId can overflow to 0 when calling NFTCollection contract's _mint function, and malicious creator can destroy NFTCollection contract afterwards by calling selfDestruct function",
+  "issueId": 160,
+  "issueUrl": "https://github.com/code-423n4/2022-08-foundation-findings/issues/160"
+}
