@@ -1,0 +1,9 @@
+{
+  "contest": 152,
+  "handle": "Chom",
+  "address": "0xc4c459668fb29833d7dee997d7d347e2634c9cef",
+  "risk": "3",
+  "title": "`postRevealBaseURIHash` is not used to check validity of the revealed NFT. Creator can change content of the NFT after minted.",
+  "issueId": 135,
+  "issueUrl": "https://github.com/code-423n4/2022-08-foundation-findings/issues/135"
+}
