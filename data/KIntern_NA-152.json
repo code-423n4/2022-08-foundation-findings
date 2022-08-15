@@ -1,0 +1,9 @@
+{
+  "contest": 152,
+  "handle": "KIntern_NA",
+  "address": "0x9cD641c50320Ad533a07f6bAFE8b313599D071AE",
+  "risk": "2",
+  "title": "Royalties can be distributed wrong with non-standard `getRoyalties()` return NFT contracts ",
+  "issueId": 152,
+  "issueUrl": "https://github.com/code-423n4/2022-08-foundation-findings/issues/152"
+}
