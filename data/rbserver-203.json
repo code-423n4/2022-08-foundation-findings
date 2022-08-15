@@ -1,0 +1,9 @@
+{
+  "contest": 152,
+  "handle": "rbserver",
+  "address": "0x4bd9605a3e546f3400df2c2be7b1c775aeea56bd",
+  "risk": "2",
+  "title": "Calling adminUpdateNFTCollectionImplementation or adminUpdateNFTDropCollectionImplementation by admin takes effect immediately and can make creator use unintended implementation version and clone from unintended implementation for creating a collection when calling createNFTCollection or _createNFTDropCollection",
+  "issueId": 203,
+  "issueUrl": "https://github.com/code-423n4/2022-08-foundation-findings/issues/203"
+}
