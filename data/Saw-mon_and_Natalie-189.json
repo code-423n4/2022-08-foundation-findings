@@ -1,0 +1,9 @@
+{
+  "contest": 152,
+  "handle": "Saw-mon_and_Natalie",
+  "address": "0xed6c38a5e307d59daed4593a85e62171f526e0bd",
+  "risk": "2",
+  "title": "The value for the `NFTCollectionFactory.versionNFTCollection` storage variable can be set by frontrunning",
+  "issueId": 189,
+  "issueUrl": "https://github.com/code-423n4/2022-08-foundation-findings/issues/189"
+}
