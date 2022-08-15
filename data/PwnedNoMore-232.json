@@ -1,0 +1,9 @@
+{
+  "contest": 152,
+  "handle": "PwnedNoMore",
+  "address": "0xe03a2766325d914898cdA00d4EF927A305786Aa7",
+  "risk": "3",
+  "title": "Revenue split inconsistency in `_getFees`",
+  "issueId": 232,
+  "issueUrl": "https://github.com/code-423n4/2022-08-foundation-findings/issues/232"
+}
