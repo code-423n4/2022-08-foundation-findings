@@ -1,0 +1,9 @@
+{
+  "contest": 152,
+  "handle": "pashov",
+  "address": "0x1797c3bcebf8c858a916fcbbd0359f65f5484915",
+  "risk": "3",
+  "title": "Bad access control in AdminRole.sol can lead to griefing DoS by front-running when trying to withdraw treasury funds",
+  "issueId": 258,
+  "issueUrl": "https://github.com/code-423n4/2022-08-foundation-findings/issues/258"
+}
