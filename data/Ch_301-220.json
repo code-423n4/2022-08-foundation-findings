@@ -1,0 +1,9 @@
+{
+  "contest": 152,
+  "handle": "Ch_301",
+  "address": "0x8040fd7b86966bd49e1b721d2ed264180aa15814",
+  "risk": "2",
+  "title": "users could not mint if they achieve the `limitPerAccount` by shopping in the secondary market ",
+  "issueId": 220,
+  "issueUrl": "https://github.com/code-423n4/2022-08-foundation-findings/issues/220"
+}
