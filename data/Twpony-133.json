@@ -1,0 +1,9 @@
+{
+  "contest": 152,
+  "handle": "Twpony",
+  "address": "0x8f66af4fecfef97f4e3edd758e9f14ce098eec77",
+  "risk": "2",
+  "title": "assumePrimarySale in MarketFees should not be hardcoded to be true, seller cannot get any revenues back",
+  "issueId": 133,
+  "issueUrl": "https://github.com/code-423n4/2022-08-foundation-findings/issues/133"
+}
