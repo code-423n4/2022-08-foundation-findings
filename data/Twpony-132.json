@@ -1,0 +1,9 @@
+{
+  "contest": 152,
+  "handle": "Twpony",
+  "address": "0x8f66af4fecfef97f4e3edd758e9f14ce098eec77",
+  "risk": "2",
+  "title": "Gas limit should not be hardcoded, the change of gas economics may lead to the crash of the NFTDrop Market",
+  "issueId": 132,
+  "issueUrl": "https://github.com/code-423n4/2022-08-foundation-findings/issues/132"
+}
