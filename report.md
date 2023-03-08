@@ -1,3 +1,11 @@
+---
+sponsor: "Foundation"
+slug: "2022-08-foundation"
+date: "2022-09-29" 
+title: "Foundation Drop contest"
+findings: "https://github.com/code-423n4/2022-08-foundation-findings/issues"
+contest: 152
+---
 
 # Overview
 
